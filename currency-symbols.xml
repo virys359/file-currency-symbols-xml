@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ## SOURCE: xe.com
+-->
 <currency-symbol count="115">
   <entry code="ALL" unicode-decimal="76, 101, 107" unicode-hex="4c, 65, 6b">Albania Lek</entry>
   <entry code="AFN" unicode-decimal="1547" unicode-hex="60b">Afghanistan Afghani</entry>
